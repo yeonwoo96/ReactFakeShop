@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createMemoryRouter } from "react-router-dom";
 import React from "react";
 import App from "../App";
 import Fashion from "./Fashion";
@@ -7,7 +7,7 @@ import Acc from "./Acc";
 import Home from "./Home";
 import Detail from "./Detail";
 
-const Router = createBrowserRouter([
+const Router = createMemoryRouter([
   {
     path: "/",
     element: <App />,
