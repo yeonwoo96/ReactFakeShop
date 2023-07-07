@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cca841b.css",
+    "main.js": "/static/js/main.0cc2f6a3.js",
+    "static/media/img_shop_grocery.jpeg": "/static/media/img_shop_grocery.d2ca048b63470af4083d.jpeg",
+    "static/media/img_shop_fashion.jpeg": "/static/media/img_shop_fashion.ef1e1bbbfaadbf0ecb0e.jpeg",
+    "static/media/img_shop_digital.jpeg": "/static/media/img_shop_digital.0c55b1eb03ed9f894601.jpeg",
+    "index.html": "/index.html",
+    "main.8cca841b.css.map": "/static/css/main.8cca841b.css.map",
+    "main.0cc2f6a3.js.map": "/static/js/main.0cc2f6a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cca841b.css",
+    "static/js/main.0cc2f6a3.js"
+  ]
+}
